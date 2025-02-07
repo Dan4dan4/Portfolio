@@ -237,7 +237,7 @@ a {
   margin-right: 100px;
   width: 500px;
   position: absolute;
-  top: 80px;
+  top: 170px;
   border-radius: 10px;
 }
 
@@ -408,16 +408,32 @@ a {
   top: 20px;
   margin-top: 0px;
   text-align: left;
-  padding: 15px;
+  /* padding: 15px; */
   margin-right: 30px;
 }
 
 .rigght{
   background-color: #F5F5DC;
   width: 1000px;
-  height: 790px;
+  /* height: 1000px; */
   padding: 30px;
   border-radius: 10px;
+  /* margin-top: 5px; */
+}
+
+.aboutme{
+  background-color: #F5F5DC;
+  padding: 3px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.aboutme ul {
+  padding: 0; 
+}
+
+.about-title {
+  text-decoration: underline;
 }
 
 .under{
